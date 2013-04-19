@@ -88,7 +88,7 @@ Novas traduções:
   * Turco - obrigado Proym
   * Tradicional Chinesa - obrigado eizonuts
   * Alemão - obrigado Berkley
-  * Francês - obrigado furhoff loic
+  * Francês
   * Frego - obrigado danzax
   * Sérvio - obrigado @delicb
   * Hebraico - obrigado Adi
